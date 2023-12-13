@@ -71,23 +71,97 @@ These notes come from the book *Johns Hopkins Evidence-Based Practice for Nurses
 
 ### Ch 5 Searching for Evidence
 
+* Primary evidence: patient contact
+* Search process described here
+* Several literature sources described here. Newer sources are not described. CINAHL, MEDLINE and PubMed, The Cochrane Library, JBI (Janna Briggs Institute), PsycINFO, Health and Psychosocial Instruments (HaPI), Physiotherapy Evidence Database (PEDro), Sigma repository, TRIP medical database, US Preventive Services Task Force, ClinicalTrials.gov, NIH RePORTER, Google Scholar
+* Query construction techniques discussed
+
+![image](https://github.com/cmcntsh/NotesJHEvidenceBasedPracticeText/assets/32034299/604f529b-8e93-4f38-81f7-86817cb095b4)
+
+
+
 ### Ch 6 Evidence Appraisal: Research
+
+* Quantitative, qualitative, mixed-methods
+* Types of research designs: experimental (level 1), quasi-experimental (level 2), non-experimental (level 3), univariate, descriptive, correlational
+* Qualitative: ethnography, grounded theory, phenomenology, narrative inquiry, case study, basic qualitative
+* Systematic Reviews
+* Meta-Analysis
+* Meta-Synthesis
+* Validity and Reliability
+* Evaluating statistics
+* Quality of Reporting (Enhancing the QUAlity and Transparency Of health Research - EQUATOR) look at parts of research report (title, abstract, introduction, methods, results, discussion, conclusion)
+* Rating quality: A High, B Good, C Low
 
 ### Ch 7 Evidence Appraisal: Non-research
 
+* Clinical practice guidelines and consensus/position statements (level 4)
+* AGREE - Appraisal of Guidelines Research and Evaluation Collaboration
+* AGREE instrument has 23 items in six domains: scope and purpose, stakeholder involvement, rigor of development, clarity of presentation, applicability, editorial independence
+* Literature reviews (level 5)
+* Integrative reviews (level 5)
+* Types of literature review: literature review, critical review, rapid review, qualitative systematic review, scoping review, state-of-the-art review, systematized review
+* CONsolidated Standards of Reporting Trials (CONSORT) statement
+* Quality improvement report (level 5)
+* Economic evaluation (level 5)
+* Program evaluation (level 5)
+* Expert opinion (level 5)
+* Case report (level 5)
+* Community standard (level 5)
+* Clinician experience (level 5)
+* Patient/Consumer experience (level 5)
+
 ### Ch 8 Translation
 
+* Translation Models: PDSA, AHRQ Knowledge Transfer, Knowledge-to-Action, PARIHS, QUERI, RE-AIM
+* SMART goals, Specific, Measurable, Achievable, Relevant, Time-bound
+* 4 Ps to communicate change: Purpose, Picture, Plan, Part
+* Five types of outcome measures: Clinical, Functional, Perceptual, Process or Intervention, Organizational
+
 ### Ch 9 Dissemination
+
+* Internal dissemination: teams, departments, executives
+* External dissemination: conferences, journals
 
 ## Part 4 Exemplars
 
 ### Ch 10 Exemplars
+
+* Some nice practical examples
 
 ## Part 5 Using JHEBP Tools
 
 ### Ch 11 Using JHEBP Tools
 
 ## Part 6 Appendices
+
+### Appendix A: PET Process Guide
+
+![image](https://github.com/cmcntsh/NotesJHEvidenceBasedPracticeText/assets/32034299/a9487bea-54c5-4ed5-8f05-3b994ec8bfa9)
+
+![image](https://github.com/cmcntsh/NotesJHEvidenceBasedPracticeText/assets/32034299/0f2252f7-ff9b-4cb7-a0b3-3b2fc8d64fd5)
+
+### Appendix B: Question Development Tool
+
+### Appendix C: Stakeholder Analysis and Communication Tool
+
+### Appendix D: Hierarchy of Evidence Guide
+
+### Appendix E: Research Evidence Appraisal Tool
+
+* Quantitative appraisal tool
+* Qualitative appraisal tool
+* Mixed Methods appraisal tool
+
+### Appendix F: Non-research Evidence Appraisal Tool
+
+### Appendix G: Individual Evidence Summary Tool
+
+### Appendix H: Synthesis and Recommendations Tool
+
+### Appendix I: Translation and Action Planning Tool
+
+### Appendix J: Publication Guide
 
 ## References
 
