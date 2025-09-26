@@ -1,6 +1,6 @@
 # Notes on Johns Hopkins Evidence-Based Practice Fourth Edition
 
-These notes come from the book *Johns Hopkins Evidence-Based Practice for Nurses and Healthcare Professionals: Model and Guidelines, Fourth Edition* (Dang et al., 2021). I focus heavily on suggested actions.
+These notes come from the book *Johns Hopkins Evidence-Based Practice for Nurses and Healthcare Professionals: Model and Guidelines, Fourth Edition* (Dang et al., 2021). I focus heavily on suggested actions. (2025 update) There is a new fifth edition available. https://search-ebscohost-com.ezproxy.lib.utah.edu/login.aspx?direct=true&db=nlebk&AN=4174556&site=ehost-live&ebv=EB&ppid=pp_C1
 
 ## Part 1 EBP Background
 
